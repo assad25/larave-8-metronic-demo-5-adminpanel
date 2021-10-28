@@ -1,0 +1,9 @@
+{
+    "Something went wrong, try again": "Something went wrong, try again!",
+    "error_500": "Error 500 on system!",
+    "error_500_reasons": "There could be multiple reasons for this to happen. Misconfiguration, error in the code or some other server error.",
+    "error_500_resolve": "If you are the administrator, please follow the product documentation - FAQ section, to debug the problem. If you are not the administrator, sorry for experiencing this, we will work on resolving this issue.",
+    "error_404": "Error 404 - Not found!",
+    "error_404_reasons": "There could be multiple reasons for this to happen.",
+    "error_404_resolve": "Either you have no access to this resource or the URL is not available"
+}

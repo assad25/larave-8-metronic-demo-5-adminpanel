@@ -4,3 +4,7 @@
 4. publish errors pages and changed layout
 5. Auth is setup and User crud is completed, use app/utils/HelperFunction.php for saving images and paths
 6. Metronic demo 5 theme is setup with master componenets
+
+
+Thank for using this.
+Regards Assad Yaqoob

@@ -6,5 +6,5 @@
 6. Metronic demo 5 theme is setup with master componenets
 
 
-    Thank for using this........
+    Thanks for using this........
     Regards Assad Yaqoob
